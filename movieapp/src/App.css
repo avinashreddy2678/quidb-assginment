@@ -1,0 +1,7 @@
+.sticky-nav {
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    background-color: #c1d1e9;
+    color: white;
+  }
